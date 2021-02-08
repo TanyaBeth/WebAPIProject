@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.mycompany.mavenproject.databases"},{"l":"com.mycompany.mavenproject.models"},{"l":"com.mycompany.mavenproject.resources"},{"l":"com.mycompany.mavenproject.services"}]

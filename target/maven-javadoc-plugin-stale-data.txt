@@ -1,0 +1,90 @@
+/usr/lib/jvm/jdk-12.0.1/bin/javadoc
+@options
+@packages
+-classpath
+'/home/ann/.m2/repository/javax/javaee-web-api/8.0.1/javaee-web-api-8.0.1.jar:/home/ann/.m2/repository/org/glassfish/jersey/containers/jersey-container-servlet/2.32/jersey-container-servlet-2.32.jar:/home/ann/.m2/repository/org/glassfish/jersey/containers/jersey-container-servlet-core/2.32/jersey-container-servlet-core-2.32.jar:/home/ann/.m2/repository/org/glassfish/hk2/external/jakarta.inject/2.6.1/jakarta.inject-2.6.1.jar:/home/ann/.m2/repository/org/glassfish/jersey/core/jersey-common/2.32/jersey-common-2.32.jar:/home/ann/.m2/repository/jakarta/annotation/jakarta.annotation-api/1.3.5/jakarta.annotation-api-1.3.5.jar:/home/ann/.m2/repository/org/glassfish/hk2/osgi-resource-locator/1.0.3/osgi-resource-locator-1.0.3.jar:/home/ann/.m2/repository/com/sun/activation/jakarta.activation/1.2.2/jakarta.activation-1.2.2.jar:/home/ann/.m2/repository/org/glassfish/jersey/core/jersey-server/2.32/jersey-server-2.32.jar:/home/ann/.m2/repository/org/glassfish/jersey/core/jersey-client/2.32/jersey-client-2.32.jar:/home/ann/.m2/repository/org/glassfish/jersey/media/jersey-media-jaxb/2.32/jersey-media-jaxb-2.32.jar:/home/ann/.m2/repository/jakarta/validation/jakarta.validation-api/2.0.2/jakarta.validation-api-2.0.2.jar:/home/ann/.m2/repository/jakarta/ws/rs/jakarta.ws.rs-api/2.1.6/jakarta.ws.rs-api-2.1.6.jar:/home/ann/.m2/repository/org/glassfish/jersey/media/jersey-media-json-jackson/2.32/jersey-media-json-jackson-2.32.jar:/home/ann/.m2/repository/org/glassfish/jersey/ext/jersey-entity-filtering/2.32/jersey-entity-filtering-2.32.jar:/home/ann/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.10.1/jackson-annotations-2.10.1.jar:/home/ann/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.10.1/jackson-databind-2.10.1.jar:/home/ann/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.10.1/jackson-core-2.10.1.jar:/home/ann/.m2/repository/com/fasterxml/jackson/module/jackson-module-jaxb-annotations/2.10.1/jackson-module-jaxb-annotations-2.10.1.jar:/home/ann/.m2/repository/jakarta/activation/jakarta.activation-api/1.2.1/jakarta.activation-api-1.2.1.jar:/home/ann/.m2/repository/org/glassfish/jersey/media/jersey-media-moxy/2.32/jersey-media-moxy-2.32.jar:/home/ann/.m2/repository/jakarta/json/jakarta.json-api/1.1.6/jakarta.json-api-1.1.6.jar:/home/ann/.m2/repository/org/glassfish/jakarta.json/1.1.6/jakarta.json-1.1.6.jar:/home/ann/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.moxy/2.7.6/org.eclipse.persistence.moxy-2.7.6.jar:/home/ann/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.core/2.7.6/org.eclipse.persistence.core-2.7.6.jar:/home/ann/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.asm/2.7.6/org.eclipse.persistence.asm-2.7.6.jar:/home/ann/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/2.3.3/jakarta.xml.bind-api-2.3.3.jar:/home/ann/.m2/repository/org/glassfish/jersey/inject/jersey-hk2/2.32/jersey-hk2-2.32.jar:/home/ann/.m2/repository/org/glassfish/hk2/hk2-locator/2.6.1/hk2-locator-2.6.1.jar:/home/ann/.m2/repository/org/glassfish/hk2/external/aopalliance-repackaged/2.6.1/aopalliance-repackaged-2.6.1.jar:/home/ann/.m2/repository/org/glassfish/hk2/hk2-api/2.6.1/hk2-api-2.6.1.jar:/home/ann/.m2/repository/org/glassfish/hk2/hk2-utils/2.6.1/hk2-utils-2.6.1.jar:/home/ann/.m2/repository/org/javassist/javassist/3.25.0-GA/javassist-3.25.0-GA.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'8'
+-sourcepath
+'/home/ann/Desktop/untitled folder/MavenProject with TrasnferFunction/mavenproject/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2020. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/ann/Desktop/untitled folder/MavenProject with TrasnferFunction/mavenproject/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'mavenproject 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'mavenproject 1.0-SNAPSHOT API'
+com.mycompany.mavenproject.resources
+com.mycompany.mavenproject.resources
+com.mycompany.mavenproject.resources
+com.mycompany.mavenproject.databases
+com.mycompany.mavenproject.services
+com.mycompany.mavenproject.services
+com.mycompany.mavenproject.services
+com.mycompany.mavenproject.models
+com.mycompany.mavenproject.models
+com.mycompany.mavenproject.models
+/home/ann/.m2/repository/javax/javaee-web-api/8.0.1/javaee-web-api-8.0.1.jar = 1606573220818
+/home/ann/.m2/repository/org/glassfish/jersey/containers/jersey-container-servlet/2.32/jersey-container-servlet-2.32.jar = 1606573219930
+/home/ann/.m2/repository/org/glassfish/jersey/containers/jersey-container-servlet-core/2.32/jersey-container-servlet-core-2.32.jar = 1606573219958
+/home/ann/.m2/repository/org/glassfish/hk2/external/jakarta.inject/2.6.1/jakarta.inject-2.6.1.jar = 1606573219926
+/home/ann/.m2/repository/org/glassfish/jersey/core/jersey-common/2.32/jersey-common-2.32.jar = 1606573220218
+/home/ann/.m2/repository/jakarta/annotation/jakarta.annotation-api/1.3.5/jakarta.annotation-api-1.3.5.jar = 1606573220030
+/home/ann/.m2/repository/org/glassfish/hk2/osgi-resource-locator/1.0.3/osgi-resource-locator-1.0.3.jar = 1606573220030
+/home/ann/.m2/repository/com/sun/activation/jakarta.activation/1.2.2/jakarta.activation-1.2.2.jar = 1606573220058
+/home/ann/.m2/repository/org/glassfish/jersey/core/jersey-server/2.32/jersey-server-2.32.jar = 1606573220530
+/home/ann/.m2/repository/org/glassfish/jersey/core/jersey-client/2.32/jersey-client-2.32.jar = 1606573220498
+/home/ann/.m2/repository/org/glassfish/jersey/media/jersey-media-jaxb/2.32/jersey-media-jaxb-2.32.jar = 1606573220242
+/home/ann/.m2/repository/jakarta/validation/jakarta.validation-api/2.0.2/jakarta.validation-api-2.0.2.jar = 1606573220362
+/home/ann/.m2/repository/jakarta/ws/rs/jakarta.ws.rs-api/2.1.6/jakarta.ws.rs-api-2.1.6.jar = 1606573220430
+/home/ann/.m2/repository/org/glassfish/jersey/media/jersey-media-json-jackson/2.32/jersey-media-json-jackson-2.32.jar = 1606573220550
+/home/ann/.m2/repository/org/glassfish/jersey/ext/jersey-entity-filtering/2.32/jersey-entity-filtering-2.32.jar = 1606573220590
+/home/ann/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.10.1/jackson-annotations-2.10.1.jar = 1606573220598
+/home/ann/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.10.1/jackson-databind-2.10.1.jar = 1606573220922
+/home/ann/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.10.1/jackson-core-2.10.1.jar = 1606573220990
+/home/ann/.m2/repository/com/fasterxml/jackson/module/jackson-module-jaxb-annotations/2.10.1/jackson-module-jaxb-annotations-2.10.1.jar = 1606573220734
+/home/ann/.m2/repository/jakarta/activation/jakarta.activation-api/1.2.1/jakarta.activation-api-1.2.1.jar = 1606573220770
+/home/ann/.m2/repository/org/glassfish/jersey/media/jersey-media-moxy/2.32/jersey-media-moxy-2.32.jar = 1606573220914
+/home/ann/.m2/repository/jakarta/json/jakarta.json-api/1.1.6/jakarta.json-api-1.1.6.jar = 1606573220934
+/home/ann/.m2/repository/org/glassfish/jakarta.json/1.1.6/jakarta.json-1.1.6.jar = 1606573221002
+/home/ann/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.moxy/2.7.6/org.eclipse.persistence.moxy-2.7.6.jar = 1606573221498
+/home/ann/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.core/2.7.6/org.eclipse.persistence.core-2.7.6.jar = 1606573222290
+/home/ann/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.asm/2.7.6/org.eclipse.persistence.asm-2.7.6.jar = 1606573221218
+/home/ann/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/2.3.3/jakarta.xml.bind-api-2.3.3.jar = 1606573221382
+/home/ann/.m2/repository/org/glassfish/jersey/inject/jersey-hk2/2.32/jersey-hk2-2.32.jar = 1606573221398
+/home/ann/.m2/repository/org/glassfish/hk2/hk2-locator/2.6.1/hk2-locator-2.6.1.jar = 1606573221490
+/home/ann/.m2/repository/org/glassfish/hk2/external/aopalliance-repackaged/2.6.1/aopalliance-repackaged-2.6.1.jar = 1606573221558
+/home/ann/.m2/repository/org/glassfish/hk2/hk2-api/2.6.1/hk2-api-2.6.1.jar = 1606573222070
+/home/ann/.m2/repository/org/glassfish/hk2/hk2-utils/2.6.1/hk2-utils-2.6.1.jar = 1606573221726
+/home/ann/.m2/repository/org/javassist/javassist/3.25.0-GA/javassist-3.25.0-GA.jar = 1606573221842
+/home/ann/Desktop/untitled folder/MavenProject with TrasnferFunction/mavenproject/src/main/java = 1607809888263
+/home/ann/Desktop/untitled folder/MavenProject with TrasnferFunction/mavenproject/target/apidocs/type-search-index.zip = 1607954607187
+/home/ann/Desktop/untitled folder/MavenProject with TrasnferFunction/mavenproject/target/apidocs/type-search-index.js = 1607954607187
+/home/ann/Desktop/untitled folder/MavenProject with TrasnferFunction/mavenproject/target/apidocs/allpackages-index.html = 1607954607195
+/home/ann/Desktop/untitled folder/MavenProject with TrasnferFunction/mavenproject/target/apidocs/member-search-index.js = 1607954607191
+/home/ann/Desktop/untitled folder/MavenProject with TrasnferFunction/mavenproject/target/apidocs/script.js = 1607954607203
+/home/ann/Desktop/untitled folder/MavenProject with TrasnferFunction/mavenproject/target/apidocs/deprecated-list.html = 1607954607159
+/home/ann/Desktop/untitled folder/MavenProject with TrasnferFunction/mavenproject/target/apidocs/stylesheet.css = 1607954607199
+/home/ann/Desktop/untitled folder/MavenProject with TrasnferFunction/mavenproject/target/apidocs/allclasses-index.html = 1607954607195
+/home/ann/Desktop/untitled folder/MavenProject with TrasnferFunction/mavenproject/target/apidocs/index.html = 1607954607167
+/home/ann/Desktop/untitled folder/MavenProject with TrasnferFunction/mavenproject/target/apidocs/search.js = 1607954607203
+/home/ann/Desktop/untitled folder/MavenProject with TrasnferFunction/mavenproject/target/apidocs/index-all.html = 1607954607191
+/home/ann/Desktop/untitled folder/MavenProject with TrasnferFunction/mavenproject/target/apidocs/package-search-index.zip = 1607954607187
+/home/ann/Desktop/untitled folder/MavenProject with TrasnferFunction/mavenproject/target/apidocs/overview-tree.html = 1607954607155
+/home/ann/Desktop/untitled folder/MavenProject with TrasnferFunction/mavenproject/target/apidocs/constant-values.html = 1607954607079
+/home/ann/Desktop/untitled folder/MavenProject with TrasnferFunction/mavenproject/target/apidocs/package-search-index.js = 1607954607187
+/home/ann/Desktop/untitled folder/MavenProject with TrasnferFunction/mavenproject/target/apidocs/member-search-index.zip = 1607954607191
+/home/ann/Desktop/untitled folder/MavenProject with TrasnferFunction/mavenproject/target/apidocs/overview-summary.html = 1607954607195
+/home/ann/Desktop/untitled folder/MavenProject with TrasnferFunction/mavenproject/target/apidocs/help-doc.html = 1607954607199
+/home/ann/Desktop/untitled folder/MavenProject with TrasnferFunction/mavenproject/target/apidocs/element-list = 1607954607055
